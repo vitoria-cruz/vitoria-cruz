@@ -1,6 +1,7 @@
-## Hi there 👋
-Boas vindas ao meu perfil 💙💙
-Meu nome é vitoria cristina pereira da cruz
+olá! ✨
+Este aqui é o meu perfil
+Me chamo Vitoria Cristina 
+![](https://media.tenor.com/HGjdpvtQXGcAAAAj/bambookwt-stars.gif)
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
