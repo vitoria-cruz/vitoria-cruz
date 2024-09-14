@@ -1,5 +1,6 @@
 olá! ✨
-Este aqui é o meu perfil
+Este aqui é o meu perfil.
+
 Me chamo Vitoria Cristina 
 
 ![](https://media.tenor.com/HGjdpvtQXGcAAAAj/bambookwt-stars.gif)
